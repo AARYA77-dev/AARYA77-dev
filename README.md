@@ -22,6 +22,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AARYA77-dev&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AARYA77-dev&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
