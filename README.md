@@ -13,8 +13,8 @@
 ![](https://streak-stats.demolab.com/?user=AARYA77-dev&theme=maroongold&hide_border=false)<br/> -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AARYA77-dev&theme=maroongold&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AARYA77-dev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AARYA77-dev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
