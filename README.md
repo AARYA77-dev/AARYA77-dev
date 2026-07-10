@@ -1,6 +1,5 @@
-![readmebox](https://github.com/user-attachments/assets/b4a522a7-2629-44ee-9492-2bf9adb8bb1a)
-
 # 💫 About Me:
+![readmebox](https://github.com/user-attachments/assets/b4a522a7-2629-44ee-9492-2bf9adb8bb1a)
 🔭 I'm currently working as a Full Stack Developer, alongside freelance and contract work.<br>🤝 I'm looking to collaborate with skilled developers to learn new and advanced technologies together.<br>🆘 I'm looking for help with system design, cloud deployment, and advanced AI agent architecture.<br>🌱 I'm currently learning Microsoft Learn developer courses and Data science with python.<br>💬 Ask me about application optimization, smooth animations, and interactive UI experiences.<br>⚡ Fun fact: I enjoy working with new technologies and exploring modern development tools and features.
 
 
