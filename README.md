@@ -1,4 +1,10 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20GitHub%20profile!&fontSize=25&fontColor=ffffff" />
+<div align="center">
+  
 ![readmebox](https://github.com/user-attachments/assets/b4a522a7-2629-44ee-9492-2bf9adb8bb1a)
+</div>
+
+
 # 💫 About Me:
 🔭 I'm currently working as a Full Stack Developer, alongside freelance and contract work.<br>🤝 I'm looking to collaborate with skilled developers to learn new and advanced technologies together.<br>🆘 I'm looking for help with system design, cloud deployment, and advanced AI agent architecture.<br>🌱 I'm currently learning Microsoft Learn developer courses and Data science with python.<br>💬 Ask me about application optimization, smooth animations, and interactive UI experiences.<br>⚡ Fun fact: I enjoy working with new technologies and exploring modern development tools and features.
 
@@ -21,5 +27,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=gradient&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Thank+You+For+Visiting+My+Profile!" alt="Thankyou Typing SVG" />
+</h1>
+
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
